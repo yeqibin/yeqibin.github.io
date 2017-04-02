@@ -7,4 +7,5 @@
    抽芽了吧。
   
 
-[[file:docs/about.md][about]]
+   [[file:docs/about.md][about me with markdown]]
+   [[file:docs/about.org][about me with org-file]]
