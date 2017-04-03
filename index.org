@@ -1,15 +1,35 @@
 #+TITLE: Welcome to YQB's blog!
-#+OPTIONS: toc:nil section-numbers:nil
+#+OPTIONS: toc:nil section-numbers:nil body-only:t
 #+EMAIL: yeqibin@ral.neu.edu.cn
  
 
 
 * 沈阳早春
-  DEADLINE: <2017-04-02 Sun>
-   四月沈阳依然感觉冷，校园桃花已悄然绽放，春天确已来到，窗外柳树也该
+  2017-04-02 Sun
+   四月初的沈阳依然冷，校园里桃花已悄然吐蕊，春天确已来到，窗外柳树也该
    抽芽了吧。
   
 
-   [[file:docs/about.md][about me with markdown]]
+* 2017-04-03 Mon 
+  嗯，一夜间桃花突然大绽放，柳条也果如昨日所料抽芽，是时候脱掉秋裤了吧。
+  
+  中午去健身时随手拍了两张，又是一年，春。
 
-   [[file:docs/about.org][about me with org-file]]
+  #+BEGIN_QUOTE
+         *清 明*--杜牧
+
+   清明时节雨纷纷，路上行人欲断魂。
+
+   借问酒家何处有，牧童遥指杏花村。
+  #+END_QUOTE
+ 
+ [[file:img/spring1.jpg]] 
+ [[./img/spring2.jpg]]
+
+* Just Use English
+
+  + [[file:docs/use-en170402.org][2 April-Killing Giants]] 
+  
+
+
+   [[file:docs/about.org][about]]

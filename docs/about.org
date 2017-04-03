@@ -1,7 +1,6 @@
 #+TITLE: 关于我
-#+AUTHOR: YQB
 
-一个前钢铁工程师。
 
-正在学习如何搭建个人博客，用Emacs org-mode写内容，然后通过git推送，会
-很方便用来做学习笔记。
+*叶其斌* ，一名前钢铁工程师，坐标 *沈阳* 。喜欢折腾Linux和开源软件，Emacs使用者。
+
+可以发[[mailto:qibinye@hotmail.com][Email]] 联系我...

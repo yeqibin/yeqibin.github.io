@@ -1,10 +1,15 @@
+#+TITLE: Welcome to YQB's blog!
+#+OPTIONS: toc:nil section-numbers:nil
+#+EMAIL: yeqibin@ral.neu.edu.cn
+ 
 
-* yeqibin.github.io
 
-
-** 沈阳早春
+* 沈阳早春
+  DEADLINE: <2017-04-02 Sun>
    四月沈阳依然感觉冷，校园桃花已悄然绽放，春天确已来到，窗外柳树也该
    抽芽了吧。
   
 
-   [[file:docs/about.md%20%20%20%20][about me]]
+   [[file:docs/about.md][about me with markdown]]
+
+   [[file:docs/about.org][about me with org-file]]
