@@ -51,9 +51,40 @@
 ## 15. 组织和性能模拟
 
 
+### 15.3.1 Caculation of the strength of individual phases
+
+$$\sigma = \sigma_{ \mathrm { Fe } } + \sum _ { i } x _ { i } \sigma _ {SSi} + \sigma _ { C } + K _ { L } ( \overline{L} ) ^ { - 1 } + K _ { D } \rho _ { D } ^ { 0.5 }
+$$
+
+where $x_i$ is the concentration of a substitutional solute which is represented here by a subscript $i$.
+
+* $K_{L}=$ coefficient for strengthening due to lath size, 115 MPa
+
+* $K_D=$ coefficient for strengthening due to dislocations, $7.34\times 10^{-6}$ m$^{-2}$
+
+* $\sigma_\mathrm{Fe}=$ strength of pure, annealed iron, 219 MPa at 200 K
+
+* $\sigma_{SSi}=$ substitutional solute ($i$) strengthening
+
+* $\sigma_C=$ solid solution strengthening due to carbon
+
+* $\rho_D=$ dislocation density, typically $10^{16}$ m$^{-2}$
+
+* $\overline{L}=$ measure of the ferrite plate size, typically 0.2 µm
+
+1. **Dislocations**
+
+2. **Lath size**
+
+$$ \sigma_G\simeq 115(\overline{L})^{-1}\;\mathrm{MPa},$$
+
+2. **Martensite composition and transformation temperature**
+
+$$M_S=\overline{M}_S-539(x_\gamma-\overline{x}), ^\circ{\mathrm{C}} $$
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYzMDg1NTAsNzI3MTg5OTQwXX0=
+eyJoaXN0b3J5IjpbLTY2ODAyNjAzNyw3MjcxODk5NDBdfQ==
 -->
