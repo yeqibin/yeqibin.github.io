@@ -53,7 +53,8 @@
 
 ### 15.3.1 Caculation of the strength of individual phases
 
-$$\sigma = \sigma_{ \mathrm { Fe } } + \sum _ { i } x _ { i } \sigma _ {SSi} + \sigma _ { C } + K _ { L } ( \overline{L} ) ^ { - 1 } + K _ { D } \rho _ { D } ^ { 0.5 }
+$$
+\sigma = \sigma_{ \mathrm { Fe } } + \sum _ { i } x _ { i } \sigma _ {SSi} + \sigma _ { C } + K _ { L } ( \overline{L} ) ^ { - 1 } + K _ { D } \rho _ { D } ^ { 0.5 }
 $$
 
 where $x_i$ is the concentration of a substitutional solute which is represented here by a subscript $i$.
@@ -86,5 +87,5 @@ $$M_S=\overline{M}_S-539(x_\gamma-\overline{x}), ^\circ{\mathrm{C}} $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODAyNjAzNyw3MjcxODk5NDBdfQ==
+eyJoaXN0b3J5IjpbLTQzNTg0OTc5OSw3MjcxODk5NDBdfQ==
 -->
