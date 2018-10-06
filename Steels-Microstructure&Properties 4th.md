@@ -14,7 +14,8 @@
 **R.W.K. Honeycombe**
 
 ![封面](https://ars.els-cdn.com/content/image/3-s2.0-C20140012774-cov200h.gif)
-###关于作者
+
+### 关于作者
 **Harry Bhadeshia** 是剑桥大学物理冶金系Tata钢铁教授，主要研究金属尤其是多相组元钢的固态相变理论，研究目标是创造新型合金和节约资源的新工艺。作为作者和共同作者一共发表了600多篇研究论文和6本相关领域的书。是英国皇家学会会员、皇家工程院院士、国家工程院院士和美国焊接学会会员。 2015年，Bhadeshia教授因科学和技术突出贡献在女王2015年寿辰中被授予下级爵士勋位。Bhadeshia教授也是RAL易红亮教授的博士指导老师。
 
 ## 一本关于钢显微组织与性能的经典著作和参考书
@@ -54,5 +55,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MTg5OTQwXX0=
+eyJoaXN0b3J5IjpbLTExNzYzMDg1NTAsNzI3MTg5OTQwXX0=
 -->
