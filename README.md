@@ -1,2 +1,4 @@
 # yeqibin.github.io
-A former steel engineer's blog.
+
+A failed try on building my own website.
+A former steel engineer's personal webiste.
